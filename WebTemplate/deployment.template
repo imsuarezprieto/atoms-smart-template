@@ -1,0 +1,9 @@
+{
+    "type": "ftp",
+    "host": "files.000webhost.com",
+    "username": "cursonet",
+    "password": "cursonet_2019",
+    "port": 21,
+    "remotePath": "/imsuarezprieto/<%= Name %>",
+    "uploadOnSave": false
+}

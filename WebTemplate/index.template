@@ -1,0 +1,32 @@
+<!doctype html>
+
+<!--
+    Dicampus/Intermark - IFCD0210 - 2019/501
+
+    Isidro Manuel Suárez Prieto - <%= (new Date().toISOString().slice(0,10).split("-").join("")) %>
+
+    MF0491 / UF1841 / <%= Section %> / Ejercicio: '<%= Title %>'
+
+    …
+-->
+
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <title><%= Title %></title>
+
+        <meta name="author" content="Isidro Manuel Suárez Prieto" />
+        <meta name="description" content="<%= Title %>" />
+
+
+        <link rel="stylesheet" href="css/common.css" />
+        <style></style>
+    </head>
+
+    <body>
+        <script src="js/common.js"></script>
+        <script></script>
+    </body>
+</html>

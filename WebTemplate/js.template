@@ -1,0 +1,9 @@
+/*
+    Dicampus/Intermark - IFCD0210 - 2019/501
+
+    Isidro Manuel Suárez Prieto - <%= (new Date().toISOString().slice(0,10).split("-").join("")) %>
+
+    MF0491 / UF1841 / <%= Section %> / Ejercicio: '<%= Title %>'
+
+    …
+*/
